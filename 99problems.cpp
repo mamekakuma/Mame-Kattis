@@ -1,4 +1,3 @@
-//Mame Kakuma    
 #include<bits/stdc++.h>
     using namespace std ;
     int nearest99( int input ){
@@ -12,3 +11,4 @@
         cin >> input ;
         cout << nearest99( input ) ;
     }
+//Mame Kakuma    
