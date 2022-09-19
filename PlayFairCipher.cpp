@@ -1,4 +1,4 @@
-// Mame Kakuma
+// Mame-Kakuma
 #include <bits/stdc++.h>
 using namespace std;
 #define f first
